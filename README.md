@@ -17,5 +17,7 @@ Historical volatility helps assess how much an asset's price has fluctuated in t
 
 ### Applications:
 **Risk Management:** Investors and traders use volatility to gauge the risk of an asset. Higher volatility implies greater uncertainty and potential for large price swings.
+
 **Option Pricing:** In options markets, volatility is a key input for pricing models like the Black-Scholes model. Higher volatility increases the premium of an option.
+
 **Portfolio Diversification:** Investors use historical volatility to diversify their portfolios by choosing assets with differing volatility levels to balance risk.
