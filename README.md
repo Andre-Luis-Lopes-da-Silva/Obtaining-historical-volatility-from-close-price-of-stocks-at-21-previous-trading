@@ -1,10 +1,10 @@
 # Obtaining-historical-volatility-from-close-price-of-stocks-at-21-previous-trading
 
-###Historical Volatility Calculation 
+### Historical Volatility Calculation 
 Historical volatility measures the past price fluctuations of a financial asset, typically a stock, over a specific time period. The calculation is based on the standard deviation of the asset's logarithmic returns (percentage changes in price) over a given period, such as the last 21 trading days.
 
-###How it’s Calculated:
-**Logarithmic Returns: Daily price changes are transformed into logarithmic returns, which are calculated as the natural logarithm of the ratio between the current and previous closing prices.
+### How it’s Calculated:
+** Logarithmic Returns:** Daily price changes are transformed into logarithmic returns, which are calculated as the natural logarithm of the ratio between the current and previous closing prices.
 
 **Mean Return: The average of these returns is computed to understand the typical daily price change over the period.
 
