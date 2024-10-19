@@ -21,3 +21,6 @@ Historical volatility helps assess how much an asset's price has fluctuated in t
 **Option Pricing:** In options markets, volatility is a key input for pricing models like the Black-Scholes model. Higher volatility increases the premium of an option.
 
 **Portfolio Diversification:** Investors use historical volatility to diversify their portfolios by choosing assets with differing volatility levels to balance risk.
+
+### References:
+FIGUEIREDO, A. C. Modelo de Black & Scholes. Em: FIGUEIREDO, A. C. (Ed.). **Introdução aos Derivativos**. São Paulo: Cengage Learning, 2013. p. 87–98.
